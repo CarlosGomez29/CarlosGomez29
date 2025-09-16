@@ -1,5 +1,5 @@
 # 💫 About Me:
-Soy un desarrollador de software orientado al backend, con enfoque en el ecosistema .NET para la construcción de aplicaciones robustas, escalables y seguras. Tengo experiencia en el diseño y desarrollo de APIs RESTful, integración con bases de datos SQL, así como en la implementación de buenas prácticas de arquitectura y patrones de diseño. Me motiva aprender nuevas tecnologías, optimizar procesos y aportar soluciones eficientes que respondan a las necesidades reales de los usuarios
+I am a backend-oriented software developer, focused on the .NET ecosystem for building robust, scalable, and secure applications. I have experience in the design and development of RESTful APIs, integration with SQL databases, and the implementation of architectural best practices and design patterns. I am motivated by learning new technologies, optimizing processes, and providing efficient solutions that meet real user needs.
 
 
 ## 🌐 Socials:
@@ -14,12 +14,6 @@ Soy un desarrollador de software orientado al backend, con enfoque en el ecosist
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Carlos Gómez&theme=rose&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Carlos Gómez&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Carlos Gómez&icon=0&color=0)](https://visitcount.itsvg.in)
