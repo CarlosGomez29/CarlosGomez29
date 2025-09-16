@@ -1,3 +1,14 @@
+<div align="center">
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/CarlosGomez29/count.svg"/>
+  <br/>
+</div>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=CarlosGomez29&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosGomez29&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CarlosGomez29&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true"/>
+</div>
+
 # 💫 About Me:
 I am a backend-oriented software developer, focused on the .NET ecosystem for building robust, scalable, and secure applications. I have experience in the design and development of RESTful APIs, integration with SQL databases, and the implementation of architectural best practices and design patterns. I am motivated by learning new technologies, optimizing processes, and providing efficient solutions that meet real user needs.
 
