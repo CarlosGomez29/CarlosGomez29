@@ -25,9 +25,7 @@
 
 # 💫 About Me
 
-I am a backend-oriented software developer, focused on the .NET ecosystem to build robust, scalable, and secure applications.  
-I have experience designing RESTful APIs, integrating SQL databases, and applying architectural best practices.  
-I am passionate about learning new technologies, optimizing processes, and providing solutions that meet real user needs.
+I am a versatile Full Stack software developer with a strong foundation in the .NET ecosystem to build robust and scalable backend applications. I have solid experience designing RESTful APIs and integrating SQL databases. I am passionate about creating seamless end-to-end solutions, from crafting efficient server logic to developing dynamic and interactive user interfaces.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <!--Tech Stack-->
