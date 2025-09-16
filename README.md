@@ -12,7 +12,7 @@
 <!--Texto Animado-->
 <p align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full Stack%20Developer%20with%20.NET;Experience%20with%20Angular%2C%20NodeJS%2C%20Tailwind%2C%20TypeScript;Working%20with%20SQL%20Server;Learning%20FrontEnd%20now%20🌱&font=Fira%20Code&center=true&width=600&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full Stack%20Developer;Experience%20with%20Angular%2C%20NodeJS%2C%20Tailwind%2C%20TypeScript;Working%20with%20SQL%20Server;Learning%20FrontEnd%20now%20🌱&font=Fira%20Code&center=true&width=600&height=45">
 </p>
 <!--Visitantes-->
 <p align="center">
