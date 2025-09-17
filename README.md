@@ -25,7 +25,7 @@
 
 # 💫 About Me
 
-I am a versatile Full Stack software developer with a strong foundation in the .NET ecosystem to build robust and scalable backend applications. I have solid experience designing RESTful APIs and integrating SQL databases. I am passionate about creating seamless end-to-end solutions, from crafting efficient server logic to developing dynamic and interactive user interfaces.
+Soy un desarrollador de software Full Stack, versátil y con una sólida base en el ecosistema .NET para crear aplicaciones backend robustas y escalables. Cuento con una sólida experiencia en el diseño de API RESTful y la integración de bases de datos SQL. Me apasiona crear soluciones integrales y sin interrupciones, desde la creación de una lógica de servidor eficiente hasta el desarrollo de interfaces de usuario dinámicas e interactivas.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <!--Tech Stack-->
