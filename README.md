@@ -14,13 +14,6 @@
   
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;Experience%20with%20Angular%2C%20NodeJS%2C%20Tailwind%2C%20TypeScript;Working%20with%20SQL%20Server;Learning%20FrontEnd%20now%20🌱&font=Fira%20Code&center=true&width=600&height=45">
 </p>
-<!--Visitantes-->
-<p align="center">
-  <a href="https://github.com/CarlosGomez29/" align="center">
-    <img align="center" alt="visitor badge" src="https://visitor-badge.laobi.icu/badge?page_id=CarlosGomez29.CarlosGomez29">
-  </a>
-</p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <!--Sobre Mi-->
 
 # 💫 About Me
