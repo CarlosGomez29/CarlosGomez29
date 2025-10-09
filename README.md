@@ -38,6 +38,7 @@ Soy un desarrollador de software Full Stack, versátil y con una sólida base en
 ### Libraries
 ![Tailwind](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=flat&logo=tailwindcss&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-%2300A4D9.svg?style=flat&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-%23008C46.svg?style=flat&logo=playwright&logoColor=white)
 ![Tesseract](https://img.shields.io/badge/Tesseract-%23FF9900.svg?style=flat&logo=tesseract&logoColor=white)
 
 ### Databases / Tools
